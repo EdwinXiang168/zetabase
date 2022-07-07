@@ -7,8 +7,8 @@ ZetaBase goals:
 3. Cloud and SaaS based
 4. Protect data security and personal privacy
 5. Support ZB scale data
-6. Distributed
-7. Block-Chain Based
+6. Distributed and Block-Chain Based
+7. Support SQL and python language
 8. Support rapid data analysis and data warehouse
 9. Support data exchange
 10. Support build-in AI models, low-code and self-service analytics
